@@ -1,0 +1,10 @@
+{
+  "tr": {
+    "home": "/",
+    "detail": "/detay"
+  },
+  "en": {
+    "home": "/",
+    "detail": "/detail"
+  }
+}
